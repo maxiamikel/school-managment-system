@@ -11,3 +11,8 @@ public class BackSchoolApplication {
 	}
 
 }
+
+/**
+ * https://imasters.com.br/back-end/heranca-de-propriedades-entre-entidades-com-
+ * jpa
+ */
