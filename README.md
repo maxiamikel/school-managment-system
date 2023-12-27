@@ -10,3 +10,4 @@ Son presentes las siguintes tecnologías en el desarrollo de este APR
 - Spring Validation
 - MYSQL
 - Spring Security
+- Insomia
